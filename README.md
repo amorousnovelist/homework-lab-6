@@ -48,6 +48,7 @@ if ((result > 99) && (result < 1000)) {
 9. **Конец**
 ## Блок-схема
 <img width="447" height="942" alt="homework-lab-6" src="https://github.com/user-attachments/assets/5f31f081-476b-424c-9e25-14ee3e830fe9" />
+
 ## Реализация программы
 ```C
 #define _CRT_SECURE_NO_DEPRECATE
@@ -79,7 +80,6 @@ int main()
 	}
 }
 ```
-
 ## Результаты работы программы
 ```
 555
